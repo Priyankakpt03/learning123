@@ -2,4 +2,7 @@ Hello Priyanka
 how are you doing 
 Lets learn Git and enjoy the learning .
 here i am adding new details 
-so that can be visible to all.
+so that can be visible to all
+learning is always good 
+knowledge is the key to success
+.
